@@ -1,4 +1,3 @@
-```matlab
 % Este código calcula varios parámetros y realiza una representación gráfica.
 
 % Solicita al usuario que ingrese la velocidad de la curva.
@@ -166,4 +165,3 @@ end
 title('Gráfica de la función')
 xlabel('Eje X')
 ylabel('Eje Y')
-```
